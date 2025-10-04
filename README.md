@@ -8,7 +8,12 @@ Ce projet illustre comment télécharger, traiter et visualiser des images Senti
 - 'data/' : dossier destiné aux fichiers '.tiff' bruts).  
 
 ## Résultats
-Exemple de résultats dans le dossier 'outputs/'
+Exemple de résultats dans le dossier 'outputs/'  
+
+![Carte NDVI](outputs/NDVI_2025-09-30.png)
+
+- Exemple de carte NDVI calculée à partir des bandes B04 et B08 de Sentinel-2.  
+- Les zones les plus vertes indiquent une forte activité de végétation.
 
 ## Données
 Les données brutes proviennent de https://browser.dataspace.copernicus.eu
