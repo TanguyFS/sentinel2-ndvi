@@ -1,0 +1,13 @@
+# Données brutes
+data/
+
+# Fichiers temporaires et compilés
+__pycache__/
+*.pyc
+*.zip
+*.tmp
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
